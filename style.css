@@ -7,4 +7,5 @@ body{
 
 header li{
     list-style-type: none;
+    color: red;
 }
