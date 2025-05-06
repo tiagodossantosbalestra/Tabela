@@ -4,3 +4,7 @@ body{
     font-size: 18px;
     line-height: 2em;
 }
+
+header li{
+    list-style-type: none;
+}
